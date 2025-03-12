@@ -1,0 +1,4 @@
+[2025-03-05 10:52:13]  INFO (basic.Log4jTest - main:15) - [info]레벨의 메세지 출력이빈다.
+[2025-03-05 10:52:13]  WARN (basic.Log4jTest - main:16) - 경고는 [warn]레벨로 출력합니다.
+[2025-03-05 10:52:13] ERROR (basic.Log4jTest - main:17) - 오류메세지를 출력하는 [error] 레벨입니다.
+[2025-03-05 10:52:13] FATAL (basic.Log4jTest - main:18) - 아주 심각한 오류의 [fatal]레벨의 메세지 입니다.
